@@ -1,0 +1,7 @@
+Flask
+Flask-RESTful
+Flask-SQLAlchemy
+mysqlclient
+psycopg2-binary
+PyJWT
+gunicorn
